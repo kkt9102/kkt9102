@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![kkt9102's github stats](https://github-readme-stats.vercel.app/api?username=kkt9102&show_icons=true)
+
 <!--
 **kkt9102/kkt9102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
