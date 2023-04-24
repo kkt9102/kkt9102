@@ -8,7 +8,7 @@
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-	<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
+	<img src="https://img.shields.io/badge/vuejs-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
 </div>
 
 ## 🔧 Tools 🔧
