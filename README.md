@@ -2,11 +2,10 @@
 
 ## ✨ Laguage ✨
 <div align="left">
-	<div style="display:flex;">
+	<div class="flex">
 		<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 		<div>&ensp;:&ensp;<span>텍스트</span></div>
 	</div>
-	
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
@@ -35,6 +34,9 @@
 	<a href="https://kkt102.tistory.com/" target="_blank">Blog</a>
 </div>
 
+<style>
+	.flex:{display:flex;}
+</style>
 <!--
 **kkt9102/kkt9102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
