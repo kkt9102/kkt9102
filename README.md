@@ -12,7 +12,7 @@
 </div>
 
 ## 🔧 Tools 🔧
-<div align="center">
+<div align="left">
 	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 	<img src="https://img.shields.io/badge/codepen-000000?style=flat&logo=codepen&logoColor=white"/>
 	<img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>
