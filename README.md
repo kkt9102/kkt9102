@@ -26,6 +26,16 @@
 ![kkt9102's github stats](https://github-readme-stats.vercel.app/api?username=kkt9102&show_icons=true)
 
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/kkt9102"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 ## Link
 <div align="center">
 	<a href="https://kkt102.tistory.com/" target="_blank">Blog</a>
