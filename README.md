@@ -33,11 +33,6 @@
 </a>
   
 
-## Link
-<div align="center">
-	<a href="https://kkt102.tistory.com/" target="_blank">Blog</a>
-</div>
-
 <!--
 **kkt9102/kkt9102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
